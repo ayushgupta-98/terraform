@@ -1,7 +1,11 @@
 # Steps:
 
 export TF_VAR_AWS_REGION=
+
 export TF_VAR_AWS_SECRET_KEY=
+
 export TF_VAR_AWS_ACCESS_KEY=
+
 export TF_VAR_PROJECT=
+
 export TF_VAR_ENVIRONMENT=
